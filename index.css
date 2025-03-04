@@ -1,0 +1,45 @@
+
+nav{
+    background-color: black;
+    padding: 10px;
+    height: 50px;
+    width: 100%;
+}
+.navi a{
+    background-color:black;
+    color: aliceblue;
+    margin-left: 100px;
+    /* width: 100%; */
+    font-weight: bold;
+}
+body{
+ background: url(img1.jpg)no-repeat;
+ background-size: cover;
+
+}
+input{
+border-radius: 10px;
+padding: 10px;
+width: 300px;
+}
+#myForm{
+    height: 450px;
+    width: 400px;
+    margin-left: 800px;
+   margin-top: -280px;
+   backdrop-filter: blur(30px);
+   text-align: center;
+   border-radius: 30px;
+   padding: 10px;
+
+}
+button{
+    border-radius: 20px;
+    height: 40px;
+    width:100px;
+}
+label{
+    margin-right: 250px;
+    font-weight: bold;
+
+}
